@@ -1,11 +1,37 @@
-# Sample Snack app
+# Bell Guardian - Cybersecurity Education App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Introduction
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Welcome to Bell Guardian, a cybersecurity education app designed to educate tech employees about cybersecurity safety. This app is dedicated to helping individuals enhance their understanding of cybersecurity best practices to protect themselves and their organizations from potential threats in a gamified way. Bell Guardian features a range of useful tools and resources to achieve this goal.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Features
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+### 1. Daily Quiz
+Engage in daily quizzes that challenge your cybersecurity knowledge. Answer questions related to various aspects of cybersecurity to reinforce your understanding and stay informed about the latest threats and preventive measures.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+### 2. Ranking Page
+Compete with your peers and colleagues by viewing the rankings based on quiz scores. Track your progress, set personal goals, and strive to improve your cybersecurity knowledge to climb up the ranks.
+
+### 3. Personal Info Page
+Update and manage your personal information securely within the app. Ensure your profile is accurate and up-to-date for better engagement and communication within the app.
+
+### 4. Security Guidelines Page
+Access a comprehensive collection of cybersecurity guidelines and best practices. Learn about essential security measures, protocols, and techniques to safeguard yourself and your organization from cyber threats.
+
+### 5. Email Scam Detector (To be implemented)
+Utilize the email scam detector feature to identify potential email scams and phishing attempts. Enhance your ability to recognize suspicious emails and protect your personal and professional information from phishing attacks. It should work by an email screenshot or picture. 
+
+## Getting Started
+
+1. **React Native:**
+   - Clone the repository: `git clone <https://github.com/batosetto/humberHackoons>`
+   - Install dependencies: `npm install`
+   - Run the app:
+     - Android: `react-native run-android`
+     - iOS: `react-native run-ios`
+
+2. **Expo Snack:**
+   - Open [Bell Guardian Expo Snack]( https://snack.expo.dev/@henriquecsampaio/bell-guardian)
+   - Click "Run" to start using Bell Guardian in your browser or on your mobile device.
+
+Thank you for choosing Bell Guardian for your cybersecurity education and safety. Stay secure, stay informed!
