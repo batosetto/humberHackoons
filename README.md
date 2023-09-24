@@ -33,5 +33,8 @@ Utilize the email scam detector feature to identify potential email scams and ph
 2. **Expo Snack:**
    - Open [Bell Guardian Expo Snack]( https://snack.expo.dev/@henriquecsampaio/bell-guardian)
    - Click "Run" to start using Bell Guardian in your browser or on your mobile device.
+  
+3. **Project Presentation:**
+   - Watch the presentation [Here] (https://prezi.com/view/Xcf6kN0KhgyJUMZHkleX/)
 
 Thank you for choosing Bell Guardian for your cybersecurity education and safety. Stay secure, stay informed!
